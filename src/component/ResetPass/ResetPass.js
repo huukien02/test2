@@ -12,7 +12,7 @@ function ResetPass() {
                 <div className='form'>
                     <h1>Reset Password</h1>
                     <p>
-                        Enter email to reset your password
+                        Enter email to reset your password 
                     </p>
                     <span>Email:</span> <br></br>
                     <input /><br></br>
