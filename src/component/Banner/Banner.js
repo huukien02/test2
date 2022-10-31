@@ -5,7 +5,7 @@ function Banner() {
     return (
         <div className='Banner'>
             <h1>Learn Anytime, Anywhere</h1>
-            <h2>at HapoLearn   !</h2>
+            <h2>at HapoLearn  !</h2>
             <p>
                 Interactive lessons, "on-the-go"
                 practice, peer support.
