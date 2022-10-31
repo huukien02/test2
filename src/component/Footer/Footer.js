@@ -14,7 +14,7 @@ function Footer() {
 
             <div className='mid'>
                 <ul>
-                    <li>Home</li>
+                    <li>Home </li>
                     <li>Features</li>
                     <li>Courses</li>
                     <li>Blog</li>
