@@ -9,7 +9,7 @@ function Home() {
     var token = localStorage.getItem("token");
     return (
         <div>
-            {token ? (<div>
+            {token ?(<div>
                 <Header />
                 <Banner />
                 <Body />
