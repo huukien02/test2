@@ -10,6 +10,7 @@ function Footer() {
                     Interactive lessons, "on-the-go"
                     practice, peer support.
                 </p>
+        /*test*/
             </div>
 
             <div className='mid'>

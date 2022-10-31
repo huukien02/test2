@@ -138,6 +138,7 @@ function DetailCourses() {
             {data.length > 0 ? (<div>
                 <Header />
                 <div className='form_detail'>
+             /*test*/
 
                     <div className='left'>
                         <div className='banner'>
