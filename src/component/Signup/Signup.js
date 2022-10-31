@@ -54,7 +54,7 @@ function Signup() {
                     <h1>Sign up to HapoLearn</h1>
                     <p>Username</p>
                     <input
-                        placeholder='Enter username'
+                        placeholder='Enter username '
                         value={userName}
                         onChange={e => { setUserName(e.target.value) }}
                     />
