@@ -9,6 +9,7 @@ function Home() {
     var token = localStorage.getItem("token");
     return (
         <div>
+        /*test*/
             {token ? (<div>
                 <Header />
                 <Banner />
