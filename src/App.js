@@ -13,6 +13,7 @@ import DetailLessons from './component/DetailLessons/DetailLessons';
 function App() {
   return (
     <div className="App">
+    // test
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Home />} />
