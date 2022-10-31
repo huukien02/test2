@@ -12,7 +12,7 @@ function Body() {
                     <div className='title'>
                         <h1>HTML/CSS/js Tutorial</h1>
                         <p>
-                            I knew hardly anything about HTML, JS, and CSS before entering New Media. I had coded quite a bit, but never touched anything in regards to web development.
+                            I knew hardly anything about HTML,JS, and CSS before entering New Media. I had coded quite a bit, but never touched anything in regards to web development.
                         </p>
                         <button>Take This Course</button>
                     </div>
