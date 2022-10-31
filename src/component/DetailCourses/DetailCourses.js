@@ -53,7 +53,7 @@ function DetailCourses() {
 
     if (data.length > 0) {
         var find = data.find((item) => {
-            /* Trả về data đầu tiên tìm thấy */
+            /* Trả về data đầu tiên tìm thấy  */
             return item._id == id;
         })
     }
