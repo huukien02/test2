@@ -130,7 +130,7 @@ function Profile() {
                                     <div>
                                         <p>Name:</p>
                                         <input
-                                            placeholder='Enter name'
+                                            placeholder='Enter  name'
                                             value={name}
                                             onChange={e => setName(e.target.value)}
                                         />
