@@ -6,7 +6,7 @@ import React, { useState } from 'react'
 function Header() {
     const [show, setShow] = useState(false)
 
-    const handleShowMenu = () => {
+    const handleShowMenu = () =>{
         setShow(prev => !prev)
     }
 
