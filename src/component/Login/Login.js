@@ -50,7 +50,7 @@ function Login() {
             <Header />
             <div className='form'>
                 <div className='Form_Login'>
-                    <h1>Sign in to HapoLearn</h1>
+                    <h1>Sign in to HapoLearn </h1>
                     <p>Username</p>
                     <input
                         placeholder='Enter username'
