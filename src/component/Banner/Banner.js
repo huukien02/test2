@@ -4,6 +4,7 @@ import React from 'react'
 function Banner() {
     return (
         <div className='Banner'>
+        /*test*/
             <h1>Learn Anytime, Anywhere</h1>
             <h2>at HapoLearn  !</h2>
             <p>
