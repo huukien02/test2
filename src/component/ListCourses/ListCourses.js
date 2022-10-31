@@ -35,7 +35,7 @@ function ListCourses() {
                 list[i].style.display = 'block'
             }
             else {
-                list[i].style.display = 'none'
+                list[i].style.display ='none'
             }
         }
 
