@@ -6,6 +6,7 @@ import Header from '../Header/Header'
 function ResetPass() {
     return (
         <div>
+        /*test*/
             <Header />
             <div className='form_reset'>
 
