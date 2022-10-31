@@ -29,6 +29,7 @@ function DetailLessons() {
 
     const find = data.find((item) => {
         /* Trả về data đầu tiên tìm thấy */
+        /*test*/
         return item._id == id;
     })
 
